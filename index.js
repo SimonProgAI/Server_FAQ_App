@@ -7,7 +7,7 @@ const port = process.env.PORT || 5000;
 
 app.use(express.json());
 app.use(cors({
-    origin: ["https://simonprogai.github.io/Project_4_Simon_Lupien/",
+    origin: ["https://simonprogai.github.io/FAQ_app/",
              'http://localhost:3000'],
     methods: 'GET,POST,PUT,DELETE',
     headers: 'Content-Type, Accept'
