@@ -24,8 +24,8 @@ Node.js Express server for user management, hosted on [Render.com](https://rende
 
 ### Installation
 ```bash
-git clone https://github.com/SimonProgAI/server_project4.git
-cd server_project4
+git clone https://github.com/SimonProgAI/Server_FAQ_App.git
+cd Server_FAQ_App
 npm install
 ```
 
